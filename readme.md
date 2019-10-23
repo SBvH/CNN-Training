@@ -1,1 +1,1 @@
-Simple mnist-mlp app
+Simple mnist-mlp app for training with hyperparameter tuning
