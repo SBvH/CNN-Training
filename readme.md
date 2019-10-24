@@ -1,1 +1,1 @@
-Simple mnist-mlp app for training with hyperparameter tuning
+Simple mnist-mlp and CCN apps for training and visualization
